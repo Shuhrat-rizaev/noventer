@@ -1,12 +1,10 @@
 import React from "react";
-import logo from "../images/Main page/k.png";
-import c from "../images/Main page/c.png";
-import ya from "../images/Main page/ya.png";
-import images from "../images/Main page/images.png";
-import uu from "../images/Main page/uu.png";
-import icon from "../images/Main page/icon.png";
+import logo from "../images/main-page/k.png";
+import c from "../images/main-page/c.png";
+import ya from "../images/main-page/ya.png";
+import icon from "../images/main-page/icon.png";
 
-import { FaChartLine, FaUsers, FaLaptopCode, FaLock } from "react-icons/fa";
+
 
 const Cards = () => {
   return (

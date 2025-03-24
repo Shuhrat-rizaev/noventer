@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import img from "../images/Main page/group.png";
+import img from "../images/main-page/group.png";
 import { Menu, X } from "lucide-react";
 
 export const Navbar = () => {
